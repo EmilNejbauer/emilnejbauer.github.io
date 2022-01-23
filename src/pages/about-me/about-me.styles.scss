@@ -1,0 +1,15 @@
+.about-me {
+  display: flex;
+  flex-wrap: wrap;
+  height: 100%;
+
+  .container {
+    width: 40%;
+    margin: auto;
+  }
+
+  img {
+    border-radius: 50%;
+    max-width: 200px;
+  }
+}
